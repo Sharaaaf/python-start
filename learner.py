@@ -7,5 +7,9 @@ print (len(a))
 b="code"
 print (len(b))
 
-print ("New code:",c,(a+" "+b))
-print (len(a+" "+b))
+d =c+" "+(a+" "+b)
+
+print ("New code: ",d)
+print (len(d))
+
+print (d[:4])

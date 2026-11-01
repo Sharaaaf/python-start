@@ -1,2 +1,1 @@
-c = (input("You're name:"))
-print ("You're name:", c)
+"CGPA":3.917

@@ -2,12 +2,13 @@
 This is my first git repo starting with learning python </br>
 Author - Sharafat (Learner dog) </br>
 
-Day 01 - 29/10/2026 </br>
-Day 02 - 30/10/2026 </br>
-Day 03 - 31/10/2026 </br>
-Day 04 - 01/11/2026 </br>
-Day 05 - 02/11/2026(Late update) </br>
-Day 06 - 03/11/2026 </br>
-Day 07 - 04/11/2026 </br>
-Day 08 - 05/11/2026 </br>
-Day 09 - 06/11/2026 </br>
+Day 001 - 29/10/2026 </br>
+Day 002 - 30/10/2026 </br>
+Day 003 - 31/10/2026 </br>
+Day 004 - 01/11/2026 </br>
+Day 005 - 02/11/2026(Late update) </br>
+Day 006 - 03/11/2026 </br>
+Day 007 - 04/11/2026 </br>
+Day 008 - 05/11/2026 </br>
+Day 009 - 06/11/2026 </br>
+Day 010 - 07/11/2026 </br>

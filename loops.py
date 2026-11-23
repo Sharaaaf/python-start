@@ -27,10 +27,34 @@
     
 # print (sum)
 
-n = int (input("Give me : "))
-i = 1
-Result = 1
-for val in range (n):
-    Result *= i
-    i+=1
-print(Result)     
+# n = int (input("Give me : "))
+# i = 1
+# Result = 1
+# for val in range (n):
+#     Result *= i
+#     i+=1
+# print(Result)     
+
+employees = {
+    (101,"Alice",50000),
+    (102,"Bob",65000),
+    (103,"Charlie",45000)
+}
+
+a = int(input("Provide Employee Id : "))
+found = False
+
+for employee in employees :
+    employee_id = employee[0]
+
+    if employee_id == a :
+        print("FOUND!!")
+        print("Name is ",employee[1])
+        print("ID is ",employee[0])
+        print("Salary is ",employee[2])
+
+        found = True
+        break
+
+if found == False:
+    print("NOT FOUND")
